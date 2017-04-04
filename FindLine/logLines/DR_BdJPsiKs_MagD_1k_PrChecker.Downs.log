@@ -1,0 +1,16 @@
+PrChecker.Downs...   INFO **** Downstream                      45282 tracks including         14020 ghosts [31.0 %], Event average  26.2 % ****
+PrChecker.Downs...   INFO                             UT+T :   27900 from    41997 [ 66.4 %]     27 clones [ 0.1 %], purity: 97.70 %, hitEff: 96.89 %
+PrChecker.Downs...   INFO                        UT+T>5GeV :   18761 from    25639 [ 73.2 %]     25 clones [ 0.1 %], purity: 97.69 %, hitEff: 96.90 %
+PrChecker.Downs...   INFO                     UT+T_strange :    3001 from     4563 [ 65.8 %]      4 clones [ 0.1 %], purity: 97.74 %, hitEff: 96.96 %
+PrChecker.Downs...   INFO                UT+T_strange>5GeV :    1856 from     2547 [ 72.9 %]      4 clones [ 0.2 %], purity: 97.80 %, hitEff: 96.84 %
+PrChecker.Downs...   INFO              noVelo+UT+T_strange :    1661 from     2584 [ 64.3 %]      3 clones [ 0.2 %], purity: 97.77 %, hitEff: 97.09 %
+PrChecker.Downs...   INFO         noVelo+UT+T_strange>5GeV :    1110 from     1555 [ 71.4 %]      3 clones [ 0.3 %], purity: 97.85 %, hitEff: 97.17 %
+PrChecker.Downs...   INFO                       UT+T_fromB :    3653 from     4925 [ 74.2 %]      4 clones [ 0.1 %], purity: 97.86 %, hitEff: 97.04 %
+PrChecker.Downs...   INFO                  UT+T_fromB>5GeV :    3000 from     3843 [ 78.1 %]      3 clones [ 0.1 %], purity: 97.93 %, hitEff: 97.06 %
+PrChecker.Downs...   INFO                noVelo+UT+T_fromB :     688 from     1045 [ 65.8 %]      2 clones [ 0.3 %], purity: 97.83 %, hitEff: 97.09 %
+PrChecker.Downs...   INFO           noVelo+UT+T_fromB>5GeV :     522 from      698 [ 74.8 %]      2 clones [ 0.4 %], purity: 98.02 %, hitEff: 97.32 %
+PrChecker.Downs...   INFO                     UT+T_SfromDB :     915 from     1223 [ 74.8 %]      3 clones [ 0.3 %], purity: 97.82 %, hitEff: 97.16 %
+PrChecker.Downs...   INFO                UT+T_SfromDB>5GeV :     701 from      879 [ 79.7 %]      3 clones [ 0.4 %], purity: 97.98 %, hitEff: 96.98 %
+PrChecker.Downs...   INFO              noVelo+UT+T_SfromDB :     599 from      811 [ 73.9 %]      2 clones [ 0.3 %], purity: 97.92 %, hitEff: 97.26 %
+PrChecker.Downs...   INFO         noVelo+UT+T_SfromDB>5GeV :     482 from      615 [ 78.4 %]      2 clones [ 0.4 %], purity: 98.06 %, hitEff: 97.29 %
+PrChecker.Downs...   INFO 
